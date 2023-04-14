@@ -23,7 +23,7 @@
   Irina Kudosova and Bryan Swarthout
 
   ## Link to screencapture
-  www_screencapture_com_2023-4-9_16_14.webm
+  https://drive.google.com/file/d/1ioW6HK1085-LAgFJUEOzplIj09oWuc4B/view
 
   ## Screenshot of logo
   [label](Logo.pdf)
